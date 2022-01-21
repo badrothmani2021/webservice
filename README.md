@@ -1,2 +1,2 @@
 # webservice
-web_service soap wsdl uddi
+ms_banque
